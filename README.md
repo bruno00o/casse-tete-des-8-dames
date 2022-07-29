@@ -15,3 +15,7 @@ Elles attaques sur toute une ligne vers le haut, vers le bas et en diagonale.
 - Vous pouvez quitter le jeu à tout moment avec `q`
 - Une fois les 8 dames posées, vous ne pouvez plus revenir en arrière, votre grille finale est affichée, un clic n'importe où vous affichera si vous avez gagner ou non
 - Cliquez pour quitter
+
+## Exemple de combinaison gagnante
+
+![image](https://user-images.githubusercontent.com/77984019/181786528-3aa4015f-b22c-4250-9f25-7e47965824a2.png)
