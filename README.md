@@ -3,12 +3,12 @@ Jeu du casse-têtes des 8 dames en C avec ncurses
 
 Ce TP réalisé à l'Université en cours de programmation en C avait pour but de se familiariser avec les opérations bit à bit ainsi qu'avec la libraire graphique `ncurses`.
 
-# But du jeu
+## But du jeu
 
 Le but du jeu est de placer ses 8 dames sur la plateau en faisant attention qu'aucune d'entres elles ne puissent s'attaquer.
 Elles attaques sur toute une ligne vers le haut, vers le bas et en diagonale.
 
-# Fonctionnement du jeu
+## Fonctionnement du jeu
 
 - Placez les dames avec la souris dans les cases du plateau
 - Vous pouvez annuler le dernier placement avec `a`
